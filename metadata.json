@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI隨身文字冒險RPG",
+  "description": "具備多重選擇、故事分支、擲骰判定與AI動態GM模式的沉浸式文字冒險RPG小品遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
